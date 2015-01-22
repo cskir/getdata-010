@@ -1,10 +1,4 @@
----
-title: "ReadMe"
-author: "Csaba Király"
-output: html_document
----
-
-##### Course Project for Getting and Cleaning Data course
+#### Course Project for Getting and Cleaning Data course
 
 #####This is the description how the R script achives the course Project's goal, and creates two described data sets. (Specification step 4 and 5)
 

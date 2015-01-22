@@ -1,10 +1,4 @@
----
-title: "CodeBook.md"
-author: "Csaba Király"
-output: html_document
----
-
-#####This Code Book describes the variables, the data, and the transformation steps which helped to achieve the desired objective.
+####This Code Book describes the variables, the data, and the transformation steps which helped to achieve the desired objective.
 
 **The output data**
 
