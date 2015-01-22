@@ -27,7 +27,7 @@
 - Dependency (calling) chain: run_analysis
 
 **usage example**
-source("run_analysis.R")
-create_save_result(run_analysis(),"getdata_010_courseproject.txt")
+- source("run_analysis.R")
+- create_save_result(run_analysis(),"getdata_010_courseproject.txt")
 
  
