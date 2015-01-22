@@ -1,7 +1,6 @@
 ---
 title: "CodeBook.md"
 author: "Csaba Király"
-date: "Wednesday, January 21, 2015"
 output: html_document
 ---
 

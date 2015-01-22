@@ -24,6 +24,7 @@ run_analysis <- function() {
     data <- mutate(data, activity = factor(activity, labels = activity_labels)) 
 }
 
+#create_save_result : summarize the data and save
 create_save_result <- function(data, filename) {
 
     #req 5: create the average of each variable 
@@ -33,8 +34,6 @@ create_save_result <- function(data, filename) {
             summarise_each(funs(mean))  %>%
                 write.table( file = filename, row.name=FALSE)
 }
-
-#create_save_result(run_analysis(),"getdata_010_courseproject.txt")
 
 # load_data: read and combine the data 
 # with the activity and the subject 
