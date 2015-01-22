@@ -21,8 +21,8 @@
 **create_save_result**
 
 - function with two parameters:
-** *data*: input dataset in an appropriate form (see specification step 4, the output of the run_analysis)
-** *filename*: the output file name 
+  - *data*: input dataset in an appropriate form (see specification step 4, the output of the run_analysis) 
+  - *filename*: the output file name 
 - Responsibility: Create a dataset due to the specification step 5 and save it to the given file, the location is the setted working directory.
 - Dependency (calling) chain: run_analysis
 
